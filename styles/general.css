@@ -21,3 +21,9 @@ a {
 .timestamp {
   pointer-events: none;
 }
+
+@media (min-width: 1200px){
+  body {
+    padding-left: 270px;
+  }
+}
